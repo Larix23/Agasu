@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 # ===== НАСТРОЙКИ - ЗАМЕНИТЕ НА СВОИ ДАННЫЕ =====
-BOT_TOKEN = "8553593727:AAFu7648oIZUbRoWg_Wl_8ZXHY8YJrp_V4U"  # Сюда вставьте токен
+BOT_TOKEN = "8625836687:AAG2Z5D8Xurt6uWbGZul795hy887htUu2Wg"  # Сюда вставьте токен
 
 # ID администраторов (оба получат сообщения)
 ADMIN_USER_ID_1 = 5832334851  # ID первого админа
